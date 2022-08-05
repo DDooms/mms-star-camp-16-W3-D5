@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/beray/Desktop/mms-star-camp-16-W3-D5/Beray'
+make: Leaving directory '/home/beray/Desktop/mms-star-camp-16-W3-D5/Beray'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
